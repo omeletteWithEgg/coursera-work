@@ -18,6 +18,12 @@ h2{position: absolute;
 	padding: 10px;
 	border: 1px solid #000
 }
+.section2-title{
+	background:yellow;
+}
+.section3-title{
+	background: grey
+}
 .section1,.section2,.section3{ 
 	background: #ff3344;
 	padding: 10px;
@@ -30,6 +36,10 @@ h2{position: absolute;
 }
 .section2{
 	margin:0 2%;
+	background: blue;
+}
+.section3{
+	background:red;
 }
 article{
 	margin-top: 50px;
